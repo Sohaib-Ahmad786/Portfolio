@@ -9,7 +9,7 @@ const PROJECTS = [
   {
     title: "Task Management App",
     description: "A full stack task management application to organize and track work.",
-    image: "/projects/task.png",
+    image: "/projects/task.png.png",
     stack: [
       { label: "Next.js", Icon: Layers3 },
       { label: "NestJS", Icon: Flame },
