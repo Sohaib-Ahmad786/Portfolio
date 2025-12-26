@@ -55,7 +55,7 @@ export default function ContactHero() {
 
     setStatus({
       type: "success",
-      msg: `Email sent successfully. ID: ${data?.id || "n/a"}`,
+      msg: `Email sent successfully. }`,
     });
 
     form.reset();
